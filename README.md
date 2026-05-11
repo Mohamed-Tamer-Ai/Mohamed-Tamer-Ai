@@ -12,7 +12,6 @@ Hi! I’m **Mohamed Tamer**, an **AI-first Data Science Intern** focused on buil
 ## 🧰 Tech Stack
 - 🐍 **Python** (pandas, NumPy)
 - 🤖 **ML**: scikit-learn
-- 🔥 **DL**: PyTorch / TensorFlow *(as needed)*
 - 🧮 **SQL**
 - 🌱 **Git**
 ---
