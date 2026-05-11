@@ -6,7 +6,6 @@ Hi! I’m **Mohamed Tamer**, an **AI-first Data Science Intern** focused on buil
 
 ## 🚀 What I do
 - 🧠 **Machine Learning** (classification, regression, time series)
-- 🗣️ **NLP** (text pipelines, embeddings, LLM-based apps)
 - 📈 **Data Analysis & Visualization** (dashboards, storytelling)
 - 🛠️ **MLOps basics** (experiment tracking, packaging, deployment)
 
@@ -16,9 +15,6 @@ Hi! I’m **Mohamed Tamer**, an **AI-first Data Science Intern** focused on buil
 - 🔥 **DL**: PyTorch / TensorFlow *(as needed)*
 - 🧮 **SQL**
 - 🌱 **Git**
-- 🐳 **Docker** *(learning)*
-- ⚡ **FastAPI** *(learning)*
-
 ---
 
 ## 🧬 AI Visuals (just for vibes)
@@ -38,5 +34,5 @@ Hi! I’m **Mohamed Tamer**, an **AI-first Data Science Intern** focused on buil
 
 ## 🌐 Contact
 - 🧑‍💻 GitHub: **@Mohamed-Tamer-Ai**
-- 💼 LinkedIn: *(add link)*
-- ✉️ Email: *(add email or omit)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/mohamed-tamer-elsheikh-b59329347/?skipRedirect=true)*
+- ✉️ Email: *(mohamadtamer2004@gmail.com)*
