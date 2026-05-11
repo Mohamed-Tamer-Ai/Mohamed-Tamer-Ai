@@ -16,17 +16,6 @@ Hi! I’m **Mohamed Tamer**, an **AI & Data Science Intern** focused on building
 - 🌱 **Git**
 ---
 
-## 🧬 AI Visuals (just for vibes)
-
-```text
-        🤖  +  📊  +  🧠  =  ⚡ AI
-
-   data ──▶ features ──▶ model ──▶ metrics ──▶ deployment
-           (EDA)        (ML)       (eval)        (MLOps)
-```
-
----
-
 ## 📌 Currently
 - ✅ Working on: AI/DS projects with **clean metrics** and **reproducible pipelines**
 - 📚 Learning: **MLOps** + **LLM application patterns**
