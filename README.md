@@ -1,6 +1,6 @@
 # Mohamed Tamer — AI & Data Science Intern 🤖📊
 
-Hi! I’m **Mohamed Tamer**, an **AI-first Data Science Intern** focused on building systems that turn data into *useful, measurable intelligence*.
+Hi! I’m **Mohamed Tamer**, an **AI & Data Science Intern** focused on building systems that turn data into *useful, measurable intelligence*.
 
 ---
 
