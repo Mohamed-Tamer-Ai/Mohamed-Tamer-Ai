@@ -33,5 +33,5 @@ Hi! I’m **Mohamed Tamer**, an **AI-first Data Science Intern** focused on buil
 
 ## 🌐 Contact
 - 🧑‍💻 GitHub: **@Mohamed-Tamer-Ai**
-- 💼 LinkedIn: *(https://www.linkedin.com/in/mohamed-tamer-elsheikh-b59329347/?skipRedirect=true)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/mohamed-tamer-elsheikh-b59329347)*
 - ✉️ Email: *(mohamadtamer2004@gmail.com)*
