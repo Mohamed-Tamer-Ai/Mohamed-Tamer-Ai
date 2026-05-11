@@ -75,15 +75,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Tamer-Ai&show_icons=true&theme=github_dark&hide_border=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Tamer-Ai&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top languages" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p>
