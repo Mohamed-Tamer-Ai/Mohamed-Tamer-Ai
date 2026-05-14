@@ -106,5 +106,3 @@
 > “Data is not just numbers — it tells stories, solves problems, and powers intelligent decisions.”
 
 ---
-
-⭐ From Mohamed Tamer
