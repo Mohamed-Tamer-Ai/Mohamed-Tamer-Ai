@@ -1,6 +1,6 @@
 # Hi 👋 I'm Mohamed Tamer
 
-## AI & Data Science Intern | Machine Learning Enthusiast | Data Analyst
+## Data Scientist || AI Specialist || Student at BFCAI
 
 <p align="left">
   <a href="https://github.com/Mohamed-Tamer-Ai">
