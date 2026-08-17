@@ -1,4 +1,4 @@
-# I'm Mohamed Tamer Elsheikh 👋
+# Hello, I'm Mohamed Tamer Elsheikh 👋
 
 ## Data Scientist || AI Specialist || Student at BFCAI
 
