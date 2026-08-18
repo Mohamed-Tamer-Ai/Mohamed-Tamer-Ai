@@ -75,14 +75,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=Mohamed-Tamer-Ai&theme=github-dark&hide_border=true" height="170" alt="GitHub streak" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p>
