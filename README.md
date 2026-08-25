@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="profile.webp" alt="Mohamed Tamer Elsheikh" width="600" style="border-radius: 15px;" />
-
 ### Mohamed Tamer Elsheikh — Data Scientist & AI Specialist
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=680&lines=Data+Scientist+%7C+AI+Specialist;Machine+Learning+Engineer+%7C+Data+Analyst;MLOps+Enthusiast+%7C+LLM+Applications;Building+Intelligent+Systems+%7C+Problem+Solver;Data+Storytelling+%7C+Predictive+Modeling;%22Data+tells+stories%2C+solves+problems%2C+and+powers+decisions%22)](https://git.io/typing-svg)
