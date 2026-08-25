@@ -31,12 +31,6 @@
 🚀 **Interested** in MLOps, LLM Applications, Automation, and AI-powered products  
 📈 **Experienced** in data storytelling, dashboarding, predictive modeling, and research-driven problem solving  
 
-### 🌱 Currently Learning
-- Advanced Machine Learning
-- MLOps & Model Deployment
-- LLM Application Patterns
-- AI System Design
-
 ---
 
 ## 🚀 What I Do
