@@ -2,14 +2,13 @@
 
 ### Mohamed Tamer Elsheikh — Data Scientist & AI Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=680&lines=Data+Scientist+%7C%7C+AI+Sp[...] 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=680&lines=Data+Scientist+%7C%7C+AI+Specialist)](https://github.com/Mohamed-Tamer-Ai)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-Tamer-Ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-tamer-elsheikh-b59329347)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamadtamer2004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamed-tamer-elsheikh.lovable.app/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+201007748681-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201007748681)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__mohamed__tamer__/)
+<p align="center">
+  [![GitHub](https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-Tamer-Ai)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-tamer-elsheikh-b59329347)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamadtamer2004@gmail.com)
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Tamer-Ai&label=Profile%20Views&color=00FF41&style=flat" alt="profile views" />
@@ -41,6 +40,18 @@
 - 📈 Create dashboards and reports for decision-making
 - ⚙️ Experiment with AI workflows and automation systems
 - 🔍 Explore real-world AI applications and research concepts
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamed-tamer-elsheikh.lovable.app/)
+  [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__mohamed__tamer__/)
+  [Contact: WhatsApp](https://wa.me/201007748681)
+</p>
+
+> For quick contact: Email, portfolio, WhatsApp (link) or Instagram — I typically reply within a day.
 
 ---
 
