@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=680&lines=Data+Scientist+%7C%7C+AI+Specialist" alt="Typing SVG" />
 </a>
 
-<!-- All links/badges moved to the top; each link uses a badge with a logo -->
+<!-- All links/badges at the top; each link uses a badge with a logo -->
 <p align="center">
   <a href="https://github.com/Mohamed-Tamer-Ai" rel="noopener"><img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/mohamed-tamer-elsheikh-b59329347" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -85,202 +85,229 @@
 
 ## 🎓 Licenses & Certifications
 
-### Machine Learning Certificate - GDG on Campus BNU
-**Issuer:** GDG on Campus BNU  
-**Issued:** Jul 2026  
-**Credential ID:** BNU-GDG26-DALY-K4I6PV  
-**Description:** Successfully completed the Machine Learning program organized by Google Developer Group (GDG) on Campus at Benha National University. Achieved 9th place out of over 1048 students.
+<details>
+  <summary><strong>Machine Learning Certificate - GDG on Campus BNU</strong> — Jul 2026</summary>
 
----
+  <p><strong>Issuer:</strong> GDG on Campus BNU  
+  <strong>Credential ID:</strong> BNU-GDG26-DALY-K4I6PV</p>
 
-### Data Science & AI Technical Team Lead
-**Issuer:** GDG On Campus - Benha University  
-**Issued:** Jan 2026  
-**Skills:** Leadership, Teamwork, +2 skills  
-**Description:** Successfully completed the Data Science & AI Technical Boot Camp, gaining hands-on experience in key concepts of data analysis, machine learning, and artificial intelligence. Strengthened my understanding of data-driven problem solving, working with datasets, and applying AI techniques in real-world scenarios. Developed practical skills in leadership, teamwork, critical thinking, and technical implementation through projects and collaborative activities.
+  <p>Successfully completed the Machine Learning program organized by Google Developer Group (GDG) on Campus at Benha National University. Achieved 9th place out of over 1048 students.</p>
+</details>
 
----
+<details>
+  <summary><strong>Data Science & AI Technical Team Lead — GDG On Campus - Benha University</strong> — Jan 2026</summary>
 
-### Learning Git and GitHub
-**Issuer:** LinkedIn  
-**Issued:** Oct 2025  
-**Credential ID:** 6f89e6389fdd1175f13816635416bde8a3ef4b836951352a3976deb3005b71fe  
-**Skills:** GitHub, Git  
-**Description:** Completed a comprehensive course on version control and collaboration using Git and GitHub. Gained practical skills in managing repositories, tracking changes, branching, merging, and collaborating on projects through GitHub.
+  <p><strong>Issuer:</strong> GDG On Campus - Benha University  
+  <strong>Skills:</strong> Leadership, Teamwork, +2 skills</p>
 
----
+  <p>Successfully completed the Data Science & AI Technical Boot Camp, where I gained hands-on experience in key concepts of data analysis, machine learning, and artificial intelligence. This Boot Camp strengthened my understanding of data-driven problem solving, working with datasets, and applying AI techniques in real-world scenarios.
 
-### Training Neural Networks in Python
-**Issuer:** LinkedIn  
-**Issued:** Oct 2025  
-**Credential ID:** 2bc449f77d3d9258eeba8bcceb4b1a37ca5ad4237abe8c49118cb884bf301df2  
-**Skills:** Neural Networks, Artificial Intelligence (AI), +1 skill  
-**Description:** Acquired hands-on experience in building, training, and evaluating neural networks using Python. Covered essential concepts such as forward and backward propagation, activation functions, optimization algorithms, and performance tuning.
+  I also developed practical skills in Leadership, teamwork, critical thinking, and technical implementation through projects and collaborative activities.</p>
+</details>
 
----
+<details>
+  <summary><strong>Learning Git and GitHub — LinkedIn</strong> — Oct 2025</summary>
 
-### Deep Learning: Model Optimization and Tuning
-**Issuer:** LinkedIn  
-**Issued:** Oct 2025  
-**Credential ID:** a89770b9595425f6329605d80c42b7fc7125a0c9f5312611b8c7caa662cc6bb9  
-**Skills:** Artificial Intelligence (AI), Machine Learning, +1 skill  
-**Description:** Gained practical knowledge in optimizing and fine-tuning deep learning models to improve performance and efficiency. Covered techniques such as hyperparameter tuning, regularization, and optimization strategies.
+  <p><strong>Issuer:</strong> LinkedIn  
+  <strong>Credential ID:</strong> 6f89e6389fdd1175f13816635416bde8a3ef4b836951352a3976deb3005b71fe  
+  <strong>Skills:</strong> GitHub, Git</p>
 
----
+  <p>Completed a comprehensive course on version control and collaboration using Git and GitHub. Gained practical skills in managing repositories, tracking changes, branching, merging, and collaborating on projects through GitHub.</p>
+</details>
 
-### Level Up: Python Data Modeling and Model Evaluation Metrics
-**Issuer:** LinkedIn  
-**Issued:** Sep 2025  
-**Credential ID:** f65a130752e3bca1d1cb3c0537a6c05492e52f8e1880396814e6cdd228b53c3f  
-**Skills:** Python, Data Modeling, +1 skill  
-**Description:** Completed the course Level Up: Python Data Modeling and Model Evaluation Metrics, gaining practical knowledge in building efficient data models and evaluating their performance.
+<details>
+  <summary><strong>Training Neural Networks in Python — LinkedIn</strong> — Oct 2025</summary>
 
----
+  <p><strong>Issuer:</strong> LinkedIn  
+  <strong>Credential ID:</strong> 2bc449f77d3d9258eeba8bcceb4b1a37ca5ad4237abe8c49118cb884bf301df2  
+  <strong>Skills:</strong> Neural Networks, Artificial Intelligence (AI)</p>
 
-### ChatGPT and Power BI
-**Issuer:** LinkedIn  
-**Issued:** Sep 2025  
-**Credential ID:** 3533d3893dd5a77c70310ec153762369b5c9c27e567bd9ba69ae109e829d389b  
-**Skills:** Microsoft Power BI, ChatGPT  
-**Description:** Completed the ChatGPT and Power BI course, learning to integrate AI tools with data visualization and enhance reporting in Microsoft Power BI.
+  <p>Acquired hands-on experience in building, training, and evaluating neural networks using Python. Covered essential concepts such as forward and backward propagation, activation functions, optimization algorithms, and performance tuning, with applications in artificial intelligence.</p>
+</details>
 
----
+<details>
+  <summary><strong>Deep Learning: Model Optimization and Tuning — LinkedIn</strong> — Oct 2025</summary>
 
-### SIC (Data Analysis)
-**Issuer:** Science in code - Benha University  
-**Issued:** Sep 2025  
-**Skills:** Analytical Thinking, Data Analysis, +6 skills  
-**Description:** Successfully completed the Data Analysis track bootcamp, gaining practical experience in data cleaning, exploratory data analysis, and visualization techniques.
+  <p><strong>Issuer:</strong> LinkedIn  
+  <strong>Credential ID:</strong> a89770b9595425f6329605d80c42b7fc7125a0c9f5312611b8c7caa662cc6bb9  
+  <strong>Skills:</strong> Artificial Intelligence (AI), Machine Learning</p>
 
----
+  <p>Gained practical knowledge in optimizing and fine-tuning deep learning models to improve performance and efficiency. Covered techniques such as hyperparameter tuning, regularization, and optimization strategies.</p>
+</details>
 
-### Data Visualization with Matplotlib and Seaborn
-**Issuer:** LinkedIn  
-**Issued:** Sep 2025  
-**Credential ID:** 8cda4c0a5e6da82c9103474eb3abafdb6cc1eb8eaeed90f8190a074726b22a82  
-**Skills:** Matplotlib, Seaborn, +1 skill  
-**Description:** Completed a course on Data Visualization with Matplotlib and Seaborn, gaining practical skills in creating professional charts and visualizations.
+<details>
+  <summary><strong>Level Up: Python Data Modeling and Model Evaluation Metrics — LinkedIn</strong> — Sep 2025</summary>
 
----
+  <p><strong>Issuer:</strong> LinkedIn  
+  <strong>Credential ID:</strong> f65a130752e3bca1d1cb3c0537a6c05492e52f8e1880396814e6cdd228b53c3f  
+  <strong>Skills:</strong> Python, Data Modeling</p>
 
-### AI and Machine Learning Foundations
-**Issuer:** Sprints  
-**Issued:** Sep 2025  
-**Skills:** Data Structures, Problem Solving, +13 skills  
-**Description:** Completed the AI and Machine Learning Foundations program with Sprints, gaining a solid understanding of AI principles and practical machine learning applications.
+  <p>Completed the course Level Up: Python Data Modeling and Model Evaluation Metrics, gaining practical knowledge in building efficient data models and evaluating their performance.</p>
+</details>
 
----
+<details>
+  <summary><strong>ChatGPT and Power BI — LinkedIn</strong> — Sep 2025</summary>
 
-### Practical Machine Learning for Data Scientists
-**Issuer:** MaharaTech - ITIMooca  
-**Issued:** Sep 2025  
-**Credential ID:** 1of8dzjms3  
-**Skills:** Scikit-Learn, Feature Engineering, +8 skills  
-**Description:** Completed a hands-on course on practical machine learning covering supervised and unsupervised algorithms, data preprocessing, feature engineering, model evaluation, and hyperparameter tuning.
+  <p><strong>Issuer:</strong> LinkedIn  
+  <strong>Credential ID:</strong> 3533d3893dd5a77c70310ec153762369b5c9c27e567bd9ba69ae109e829d389b  
+  <strong>Skills:</strong> Microsoft Power BI, ChatGPT</p>
 
----
+  <p>Completed the ChatGPT and Power BI course, gaining hands-on experience in integrating AI tools with data visualization. Learned how to leverage ChatGPT for data insights and enhance reporting and dashboards in Microsoft Power BI.</p>
+</details>
 
-### AI For Everyone (AI4E)
-**Issuer:** MaharaTech - ITIMooca  
-**Issued:** Sep 2025  
-**Credential ID:** QiimzK5neF  
-**Skills:** Artificial Intelligence (AI), Neural Networks (Fundamentals), +5 skills  
-**Description:** Completed a non-technical course on AI covering fundamental concepts, practical applications, and societal impact.
+<details>
+  <summary><strong>SIC (Data Analysis) — Science in code - Benha University</strong> — Sep 2025</summary>
 
----
+  <p><strong>Issuer:</strong> Science in code - Benha University  
+  <strong>Skills:</strong> Analytical Thinking, Data Analysis, +6 skills</p>
 
-### Machine Learning and AI Foundations: Classification Modeling
-**Issuer:** LinkedIn  
-**Issued:** Sep 2025  
-**Credential ID:** 2450c723849fadb2bdaea3c18631654a2450d3e71a8f111f9d2536d282a849fa  
-**Skills:** Artificial Intelligence (AI), Data Classification, +2 skills  
-**Description:** Completed a comprehensive course on classification modeling as part of the Machine Learning and AI Foundations track.
+  <p>Successfully completed the Data Analysis track bootcamp, gaining practical experience in data cleaning, exploratory data analysis, and visualization techniques. Developed strong skills in using analytical tools to interpret datasets, extract insights, and support data-driven decision making.</p>
+</details>
 
----
+<details>
+  <summary><strong>Data Visualization with Matplotlib and Seaborn — LinkedIn</strong> — Sep 2025</summary>
 
-### Prompt Engineering with ChatGPT
-**Issuer:** LinkedIn  
-**Issued:** Sep 2025  
-**Credential ID:** 30a71669df0cd7e6727ce7b92c1a616c11634963f1b2102d8f35d87b5e14d731  
-**Skills:** Prompt Engineering, ChatGPT  
-**Description:** Strengthened ability to craft effective prompts, use personas, and leverage multimodality with ChatGPT.
+  <p><strong>Issuer:</strong> LinkedIn  
+  <strong>Credential ID:</strong> 8cda4c0a5e6da82c9103474eb3abafdb6cc1eb8eaeed90f8190a074726b22a82  
+  <strong>Skills:</strong> Matplotlib, Seaborn</p>
 
----
+  <p>Completed a comprehensive course on Data Visualization with Matplotlib and Seaborn, gaining practical skills in creating professional charts, statistical plots, and customized visualizations.</p>
+</details>
 
-### Build with AI: LLM-Powered Data Analysis App with Python and Streamlit
-**Issuer:** LinkedIn  
-**Issued:** Sep 2025  
-**Credential ID:** 6a1333d6fdc59cebbb3508548c114b89d1084efef31779d77df0c88ee6aeafe9  
-**Skills:** Data Analysis, Large Language Models (LLM)  
-**Description:** Completed a hands-on project-based course on building LLM-powered data analysis applications using Python and Streamlit.
+<details>
+  <summary><strong>AI and Machine Learning Foundations — Sprints</strong> — Sep 2025</summary>
 
----
+  <p><strong>Issuer:</strong> Sprints  
+  <strong>Skills:</strong> Data Structures, Problem Solving, +13 skills</p>
 
-### Building Deep Learning Applications with Keras
-**Issuer:** LinkedIn  
-**Issued:** Sep 2025  
-**Credential ID:** 4eff730ba1c85b2d080c59772d302d9fd6369855287c62b5b0541adab17c7e4a  
-**Skills:** Keras, Application Development, +1 skill  
-**Description:** Completed the Building Deep Learning Applications with Keras course, gaining hands-on experience designing and training deep learning models.
+  <p>Completed the AI and Machine Learning Foundations program with Sprints, gaining a solid understanding of AI principles, data preparation, model building, and practical machine learning applications.</p>
+</details>
 
----
+<details>
+  <summary><strong>Practical Machine Learning for Data Scientists — MaharaTech - ITIMooca</strong> — Sep 2025</summary>
 
-### Prompt Engineering: How to Talk to the AIs
-**Issuer:** LinkedIn  
-**Issued:** Sep 2025  
-**Credential ID:** 9ac040d8ce972f959b2e89a5e97d0ec930c4cfb091e7635c3ec58538b3abfaa2  
-**Skills:** Large Language Models (LLM), Generative AI, +1 skill  
-**Description:** Demonstrates proficiency in Prompt Engineering and effective interaction with LLMs.
+  <p><strong>Issuer:</strong> MaharaTech - ITIMooca  
+  <strong>Credential ID:</strong> 1of8dzjms3  
+  <strong>Skills:</strong> Scikit-Learn, Feature Engineering</p>
 
----
+  <p>Completed a hands-on course on practical machine learning, covering supervised and unsupervised algorithms, data preprocessing, feature engineering, model evaluation, hyperparameter tuning, and real-world implementation using Python.</p>
+</details>
 
-### Artificial Intelligence Foundations: Machine Learning
-**Issuer:** LinkedIn  
-**Issued:** Sep 2025  
-**Credential ID:** 2d0772fcf7cf1a0656cbb4c2609ba4377401fb1809f0006692dcb43f1de6ebd1  
-**Skills:** Artificial Intelligence (AI), Machine Learning  
-**Description:** Demonstrates foundational knowledge and practical understanding of AI and Machine Learning.
+<details>
+  <summary><strong>AI For Everyone (AI4E) — MaharaTech - ITIMooca</strong> — Sep 2025</summary>
 
----
+  <p><strong>Issuer:</strong> MaharaTech - ITIMooca  
+  <strong>Credential ID:</strong> QiimzK5neF  
+  <strong>Skills:</strong> Artificial Intelligence (AI), Neural Networks (Fundamentals)</p>
 
-### International Computer Drivers License - Level One (ICDL)
-**Issuer:** Ethos Academy  
-**Issued:** Mar 2025  
-**Description:** Demonstrates proficiency in essential computer applications, digital communication, and productivity tools.
+  <p>Completed a non-technical course on Artificial Intelligence, covering fundamental concepts, practical applications, and strategies to leverage AI effectively in real-world scenarios.</p>
+</details>
 
----
+<details>
+  <summary><strong>Machine Learning and AI Foundations: Classification Modeling — LinkedIn</strong> — Sep 2025</summary>
 
-### Java Fundamentals – Udemy
-**Issuer:** Udemy  
-**Issued:** Mar 2025  
-**Credential ID:** UC-1e4e6acf-174d-4ab8-9190-f1dd8bef2477  
-**Skills:** Java, Object-Oriented Programming (OOP)  
-**Description:** Solid foundation in Java development and OOP practices.
+  <p><strong>Issuer:</strong> LinkedIn  
+  <strong>Credential ID:</strong> 2450c723849fadb2bdaea3c18631654a2450d3e71a8f111f9d2536d282a849fa  
+  <strong>Skills:</strong> Artificial Intelligence (AI), Data Classification</p>
 
----
+  <p>Completed a comprehensive course on Classification Modeling as part of the Machine Learning and AI Foundations track, gaining a strong understanding of key concepts in machine learning, artificial intelligence, and data classification.</p>
+</details>
 
-### C++ Fundamentals for Beginners – Udemy
-**Issuer:** Udemy  
-**Issued:** Mar 2025  
-**Credential ID:** UC-e994ca09-a064-4755-82c8-49145c754615  
-**Skills:** Object-Oriented Programming (OOP), C++  
-**Description:** Strong foundation in C++ and OOP principles.
+<details>
+  <summary><strong>Prompt Engineering with ChatGPT — LinkedIn</strong> — Sep 2025</summary>
 
----
+  <p><strong>Issuer:</strong> LinkedIn  
+  <strong>Credential ID:</strong> 30a71669df0cd7e6727ce7b92c1a616c11634963f1b2102d8f35d87b5e14d731  
+  <strong>Skills:</strong> Prompt Engineering, ChatGPT</p>
 
-### Google Certifications – GDG On Campus - Benha University
-**Issuer:** GDG On Campus - Benha University  
-**Issued:** Feb 2025  
-**Description:** Skills in Cross-Site Scripting (XSS) Attacks, Web Application Penetration Testing, and related topics.
+  <p>This course helped me strengthen my ability to craft effective prompts, use personas, and leverage multimodality to get the best out of ChatGPT — boosting creativity, productivity, and precision.</p>
+</details>
 
----
+<details>
+  <summary><strong>Build with AI: LLM-Powered Data Analysis App with Python and Streamlit — LinkedIn</strong> — Sep 2025</summary>
 
-### Red Teaming, Ethical Hacking, Penetration Testing, Bug Hunting – Udemy
-**Issuer:** Udemy  
-**Issued:** Feb 2025  
-**Credential ID:** UC-ca5b0e39-9d07-4f3e-81de-ecb6ce510c4c  
-**Skills:** Penetration Testing, Linux Fundamentals & Bash Script, +5 skills  
-**Description:** Applied knowledge in ethical hacking, system exploitation, and security assessment.
+  <p><strong>Issuer:</strong> LinkedIn  
+  <strong>Credential ID:</strong> 6a1333d6fdc59cebbb3508548c114b89d1084efef31779d77df0c88ee6aeafe9  
+  <strong>Skills:</strong> Data Analysis, Large Language Models (LLM)</p>
+
+  <p>Completed a hands-on project-based course on building LLM-powered data analysis applications using Python and Streamlit. Gained practical experience in integrating large language models (LLMs) to analyze datasets, generate insights, and build interactive data dashboards.</p>
+</details>
+
+<details>
+  <summary><strong>Building Deep Learning Applications with Keras — LinkedIn</strong> — Sep 2025</summary>
+
+  <p><strong>Issuer:</strong> LinkedIn  
+  <strong>Credential ID:</strong> 4eff730ba1c85b2d080c59772d302d9fd6369855287c62b5b0541adab17c7e4a  
+  <strong>Skills:</strong> Keras, Application Development</p>
+
+  <p>Completed the Building Deep Learning Applications with Keras course, gaining hands-on experience in designing, building, training, and evaluating deep learning models using Keras.</p>
+</details>
+
+<details>
+  <summary><strong>Prompt Engineering: How to Talk to the AIs — LinkedIn</strong> — Sep 2025</summary>
+
+  <p><strong>Issuer:</strong> LinkedIn  
+  <strong>Credential ID:</strong> 9ac040d8ce972f959b2e89a5e97d0ec930c4cfb091e7635c3ec58538b3abfaa2  
+  <strong>Skills:</strong> Large Language Models (LLM), Generative AI</p>
+
+  <p>This certification demonstrates proficiency in Prompt Engineering and effective interaction with Large Language Models (LLMs). It covers techniques for designing prompts, generating accurate and useful outputs, and leveraging Generative AI for practical applications.</p>
+</details>
+
+<details>
+  <summary><strong>Artificial Intelligence Foundations: Machine Learning — LinkedIn</strong> — Sep 2025</summary>
+
+  <p><strong>Issuer:</strong> LinkedIn  
+  <strong>Credential ID:</strong> 2d0772fcf7cf1a0656cbb4c2609ba4377401fb1809f0006692dcb43f1de6ebd1  
+  <strong>Skills:</strong> Artificial Intelligence (AI), Machine Learning</p>
+
+  <p>This certification demonstrates foundational knowledge and practical understanding of Artificial Intelligence (AI) and Machine Learning.</p>
+</details>
+
+<details>
+  <summary><strong>International Computer Drivers License - Level One (ICDL) — Ethos Academy</strong> — Mar 2025</summary>
+
+  <p><strong>Issuer:</strong> Ethos Academy</p>
+
+  <p>This certification demonstrates proficiency in essential computer applications, digital communication, and productivity tools.</p>
+</details>
+
+<details>
+  <summary><strong>Java Fundamentals – Udemy</strong> — Mar 2025</summary>
+
+  <p><strong>Issuer:</strong> Udemy  
+  <strong>Credential ID:</strong> UC-1e4e6acf-174d-4ab8-9190-f1dd8bef2477  
+  <strong>Skills:</strong> Java, Object-Oriented Programming (OOP)</p>
+
+  <p>This certification highlights a solid foundation in Java development and OOP practices.</p>
+</details>
+
+<details>
+  <summary><strong>C++ Fundamentals for Beginners – Udemy</strong> — Mar 2025</summary>
+
+  <p><strong>Issuer:</strong> Udemy  
+  <strong>Credential ID:</strong> UC-e994ca09-a064-4755-82c8-49145c754615  
+  <strong>Skills:</strong> Object-Oriented Programming (OOP), C++</p>
+
+  <p>This certification highlights a strong foundation in C++ and OOP principles, essential for software development.</p>
+</details>
+
+<details>
+  <summary><strong>Google Certifications — GDG On Campus - Benha University</strong> — Feb 2025</summary>
+
+  <p><strong>Issuer:</strong> GDG On Campus - Benha University</p>
+
+  <p>Skills in Cross-Site Scripting (XSS) Attacks, Web Application Penetration Testing, and related topics.</p>
+</details>
+
+<details>
+  <summary><strong>Red Teaming, Ethical Hacking, Penetration Testing, Bug Hunting — Udemy</strong> — Feb 2025</summary>
+
+  <p><strong>Issuer:</strong> Udemy  
+  <strong>Credential ID:</strong> UC-ca5b0e39-9d07-4f3e-81de-ecb6ce510c4c  
+  <strong>Skills:</strong> Penetration Testing, Linux Fundamentals & Bash Script</p>
+
+  <p>This certification demonstrates applied knowledge in ethical hacking, system exploitation, and security assessment.</p>
+</details>
 
 ---
 
