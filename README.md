@@ -8,6 +8,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-tamer-elsheikh-b59329347)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamadtamer2004@gmail.com)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-Tamer-Ai&label=Profile%20Views&color=00FF41&style=flat" alt="profile views" />
+</p>
 ---
 
 ## 👨‍💻 About Me
@@ -81,9 +84,5 @@
 > "Data is not just numbers — it tells stories, solves problems, and powers intelligent decisions."
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-Tamer-Ai&label=Profile%20Views&color=00FF41&style=flat" alt="profile views" />
-</p>
 
 </div>
