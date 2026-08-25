@@ -1,11 +1,28 @@
 <div align="center">
 
-### Mohamed Tamer Elsheikh — Data Scientist & AI Specialist
+<h1>
+  <a href="https://mohamed-tamer-elsheikh.lovable.app/" target="_blank" rel="noopener" title="Open portfolio">
+    Mohamed Tamer Elsheikh
+  </a>
+</h1>
 
-<!-- Typing SVG as an image inside a link so it renders correctly inside HTML blocks -->
+<!-- Typing SVG shows multiple roles, including your requested phrase -->
 <a href="https://github.com/Mohamed-Tamer-Ai" rel="noopener">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=680&lines=Data+Scientist+%7C%7C+AI+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=760&lines=Data+Scientist+%7C%7C+AI+Specialist+%7C%7C+Data+Analyst+%7C%7C+Machine+Learning+Engineer+%7C%7C+Student+at+BFCAI" alt="Typing SVG" />
 </a>
+
+<!-- Role badges (clickable) -->
+<p align="center" style="margin-top:12px">
+  <a href="https://github.com/Mohamed-Tamer-Ai" rel="noopener"><img src="https://img.shields.io/badge/Data%20Scientist-Explorer-00AEEF?style=for-the-badge&logo=databricks" alt="Data Scientist" /></a>
+  <a href="https://github.com/Mohamed-Tamer-Ai" rel="noopener"><img src="https://img.shields.io/badge/AI%20Specialist-Research-9B59B6?style=for-the-badge&logo=opencv" alt="AI Specialist" /></a>
+  <a href="https://mohamed-tamer-elsheikh.lovable.app/" rel="noopener"><img src="https://img.shields.io/badge/Data%20Analyst-Insights-4CAF50?style=for-the-badge&logo=tableau" alt="Data Analyst" /></a>
+  <a href="https://mohamed-tamer-elsheikh.lovable.app/" rel="noopener"><img src="https://img.shields.io/badge/ML%20Engineer-Builder-F39C12?style=for-the-badge&logo=tensorflow" alt="Machine Learning Engineer" /></a>
+  <a href="https://mohamed-tamer-elsheikh.lovable.app/" rel="noopener"><img src="https://img.shields.io/badge/Student%20at%20BFCAI-Learning-2ECC71?style=for-the-badge&logo=education" alt="Student at BFCAI" /></a>
+</p>
+
+<!-- Optional single-line summary under badges -->
+<p><em>Data Scientist || AI Specialist || Student at BFCAI</em></p>
+
 
 <!-- All links/badges at the top; each link uses a badge with a logo -->
 <p align="center">
