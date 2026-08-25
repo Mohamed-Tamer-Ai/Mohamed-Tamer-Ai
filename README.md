@@ -2,7 +2,7 @@
 
 ### Mohamed Tamer Elsheikh — Data Scientist & AI Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=680&lines=Data+Scientist+%7C+AI+Specialist;Machine+Learning+Engineer+%7C+Data+Analyst;MLOps+Enthusiast+%7C+LLM+Applications;Building+Intelligent+Systems+%7C+Problem+Solver;Data+Storytelling+%7C+Predictive+Modeling;%22Data+tells+stories%2C+solves+problems%2C+and+powers+decisions%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=680&lines=Data+Scientist+%7C%7C+AI+Specialist+%7C%7C+Student+at+BFCAI;Machine+Learning+Engineer+%7C+Data+Analyst;MLOps+Enthusiast+%7C+LLM+Applications;Building+Intelligent+Systems+%7C+Problem+Solver;Data+Storytelling+%7C+Predictive+Modeling;%22Data+tells+stories%2C+solves+problems%2C+and+powers+decisions%22)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-Tamer-Ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-tamer-elsheikh-b59329347)
@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Tamer-Ai&label=Profile%20Views&color=00FF41&style=flat" alt="profile views" />
 </p>
+
 ---
 
 ## 👨‍💻 About Me
