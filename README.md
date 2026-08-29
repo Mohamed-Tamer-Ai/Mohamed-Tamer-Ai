@@ -346,21 +346,6 @@ I enjoy working across the complete data workflow:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Tamer-Ai&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Tamer-Ai&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" height="170" alt="Top Languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Tamer-Ai&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 💡 Quote
 
 <div align="center">
