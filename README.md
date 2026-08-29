@@ -133,96 +133,166 @@ I enjoy working across the complete data workflow:
 
 ## 📂 Featured Projects
 
+### 🏆 Flagship Projects
+
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🚕 Ride Bookings</h3>
-      <p align="center">Data analysis and visualization project exploring ride booking patterns and trends.</p>
-      <p align="center">
+    <td>
+      <h3>🚀 SIC Bootcamp — TechNova Retail & Churn Analytics</h3>
+      <p><strong>End-to-End Data Analysis, BI & Machine Learning Platform</strong></p>
+      <p>Comprehensive capstone project covering the full data lifecycle for a retail business case across 6 cities. Cleans 5,000 transactional records with Excel and Power Query, performs statistical KPI analysis, executes advanced SQL queries (CTEs, window functions, JOINs), builds Star Schema Power BI dashboards with DAX measures, trains a Logistic Regression churn model, and deploys a multi-tab Streamlit web application with single and batch customer scoring.</p>
+      <p>
+        <strong>Key Areas:</strong> Data Cleaning · SQL Analytics · Power BI Dashboards · Predictive ML · Streamlit Deployment
+      </p>
+      <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-        <img src="https://img.shields.io/badge/Data_Analysis-0078D4?style=flat-square" alt="Data Analysis" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Mohamed-Tamer-Ai/Ride_Bookings" rel="noopener">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🚢 Titanic Survival Prediction</h3>
-      <p align="center">Machine learning classification model to predict passenger survival on the Titanic.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-        <img src="https://img.shields.io/badge/ML-0078D4?style=flat-square" alt="Machine Learning" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Mohamed-Tamer-Ai/Titanic-Survival-Prediction" rel="noopener">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📞 Customer Telecom Churn</h3>
-      <p align="center">Predictive analytics project analyzing customer churn in the telecom industry.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-        <img src="https://img.shields.io/badge/Prediction-FF6F00?style=flat-square" alt="Prediction" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Mohamed-Tamer-Ai/Customer_Telecom_Churn_Project" rel="noopener">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 Instagram Influencers Dashboard</h3>
-      <p align="center">Power BI dashboard analyzing Instagram influencer metrics and engagement.</p>
-      <p align="center">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL" />
         <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-        <img src="https://img.shields.io/badge/Dashboard-217346?style=flat-square" alt="Dashboard" />
-        <img src="https://img.shields.io/badge/Analytics-0078D4?style=flat-square" alt="Analytics" />
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
       </p>
-      <p align="center">
-        <!-- Add project URL here -->
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+      <p>
+        <a href="https://github.com/Mohamed-Tamer-Ai/SIC_Bootcamp_TechNova_Project" rel="noopener"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a>
+        <a href="https://sicbootcamptechnovaproject-j68jzedepdg5d6gpbvvwdm.streamlit.app/" rel="noopener"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" /></a>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">🛒 Super Market System</h3>
-      <p align="center">A system for managing supermarket operations, inventory, and transactions.</p>
-      <p align="center">
+    <td>
+      <h3>🚕 NCR Ride Bookings — Multi-Target ML Dashboard</h3>
+      <p><strong>Production-Grade ML Pipeline & Interactive Analytics Platform</strong></p>
+      <p>Analyzes 150,000 Uber ride bookings across Delhi-NCR with a multi-target ML pipeline that simultaneously predicts ride cancellations (XGBoost classifier, AUC-ROC ~0.97), driver ratings, and customer ratings (XGBoost regressors, R² ~0.89) from a single set of trip parameters. Features automated feature engineering, class imbalance handling, and a 1,100+ line Streamlit dashboard with Plotly gauges, KPI cards, temporal demand analytics, and a Power BI report.</p>
+      <p>
+        <strong>Key Areas:</strong> Multi-Target ML · XGBoost · Feature Engineering · Interactive Dashboard · Model Serialization
+      </p>
+      <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/System_Design-8E44AD?style=flat-square" alt="System Design" />
+        <img src="https://img.shields.io/badge/XGBoost-006600?style=flat-square" alt="XGBoost" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
       </p>
-      <p align="center">
-        <a href="https://github.com/Mohamed-Tamer-Ai/Super_Market_System" rel="noopener">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🚀 TechNova</h3>
-      <p align="center">A tech-focused project exploring innovative software and AI solutions.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square" alt="AI" />
-        <img src="https://img.shields.io/badge/Innovation-2ECC71?style=flat-square" alt="Innovation" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Mohamed-Tamer-Ai/TechNova" rel="noopener">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
-        </a>
+      <p>
+        <a href="https://github.com/Mohamed-Tamer-Ai/NCR_Ride_Bookings" rel="noopener"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a>
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+### 🤖 Machine Learning
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏦 Bank Marketing Prediction</h3>
+      <p align="center"><strong>9-Algorithm ML Benchmark</strong></p>
+      <p align="center">Benchmarks 9 ML algorithms (Hist Gradient Boosting, Random Forest, SVM, Extra Trees, KNN, and more) on bank marketing data. Features a 5-page Streamlit app with model diagnostics, ROC curves, confusion matrices, and feature importance analysis.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Mohamed-Tamer-Ai/Bank-Customer-Churn-Prediction-ML" rel="noopener"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+        <a href="https://bank-customer-churn-prediction-ml-ea4s6t797bw4etxjcxuvuw.streamlit.app/" rel="noopener"><img src="https://img.shields.io/badge/Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" /></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📞 Customer Telecom Churn</h3>
+      <p align="center"><strong>End-to-End ML Workflow</strong></p>
+      <p align="center">End-to-end churn prediction covering EDA, preprocessing, Logistic Regression modeling, evaluation, and Streamlit deployment for the telecom industry.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/EDA-2ECC71?style=flat-square" alt="EDA" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Mohamed-Tamer-Ai/Customer_Telecom_Churn_Project" rel="noopener"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+        <a href="https://bootcampcustomertelecomchurnproject-greixnnnkmotmtpqr4pit3.streamlit.app/" rel="noopener"><img src="https://img.shields.io/badge/Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚢 Titanic Survival Prediction</h3>
+      <p align="center"><strong>Classification & Model Comparison</strong></p>
+      <p align="center">End-to-end Titanic ML project with EDA, missing data imputation, Logistic Regression and Decision Tree classifiers, comparative evaluation, and a Streamlit web application.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+        <img src="https://img.shields.io/badge/Decision_Tree-2ECC71?style=flat-square" alt="Decision Tree" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Mohamed-Tamer-Ai/Titanic-Survival-Prediction" rel="noopener"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📈 Instagram Influencers Dashboard</h3>
+      <p align="center"><strong>Power BI Business Intelligence</strong></p>
+      <p align="center">Interactive Power BI dashboard analyzing top 200 Instagram influencers globally. Features DAX measures, Power Query ETL, engagement analysis, geographic distribution, and interactive slicers.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+        <img src="https://img.shields.io/badge/DAX-0078D4?style=flat-square" alt="DAX" />
+        <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square" alt="Power Query" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Mohamed-Tamer-Ai/Instagram-Influencers-Powerbi-Dashboard" rel="noopener"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Software Engineering & System Design
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💼 AI Job Matching System</h3>
+      <p align="center"><strong>System Analysis & Design</strong></p>
+      <p align="center">AI-powered job matching system with comprehensive SRS documentation, UML use cases, DFD data flows, ERD database schemas, and architectural blueprints for an intelligent recruitment platform.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/System_Design-8E44AD?style=flat-square" alt="System Design" />
+        <img src="https://img.shields.io/badge/UML-0078D4?style=flat-square" alt="UML" />
+        <img src="https://img.shields.io/badge/ERD-333333?style=flat-square" alt="ERD" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Mohamed-Tamer-Ai/AI_Job_Matching_System_Project" rel="noopener"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛒 Super Market System</h3>
+      <p align="center"><strong>Desktop POS Application</strong></p>
+      <p align="center">Java desktop point-of-sale system with product inventory, CRUD operations, billing, stock control, and sales reporting via JDBC database connectivity.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/JDBC-4479A1?style=flat-square" alt="JDBC" />
+        <img src="https://img.shields.io/badge/OOP-0078D4?style=flat-square" alt="OOP" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Mohamed-Tamer-Ai/Super_Market_System" rel="noopener"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📚 More Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Prime Number Assembly Project](https://github.com/Mohamed-Tamer-Ai/Prime-Number-Assembly-Project) | MIPS assembly prime-number checker with C++ and Python implementations | Assembly, C++, Python |
+
+<p align="center">
+  <a href="https://github.com/Mohamed-Tamer-Ai?tab=repositories" rel="noopener"><img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" /></a>
+</p>
 
 ---
 
@@ -302,6 +372,13 @@ I enjoy working across the complete data workflow:
 ---
 
 <div align="center">
+
+<p>
+  <a href="https://github.com/Mohamed-Tamer-Ai" rel="noopener"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-tamer-elsheikh-b59329347" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohamadtamer2004@gmail.com" rel="noopener"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mohamed-tamer-elsheikh.lovable.app/" rel="noopener"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 <p><em>Open to collaborations, internships, and AI/Data Science opportunities</em></p>
 
