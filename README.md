@@ -308,42 +308,88 @@ I enjoy working across the complete data workflow:
 
 ## 🎓 Certifications
 
+### 🏆 Featured Certifications
+
 <details>
-  <summary><strong>🏆 Machine Learning Certificate</strong> — GDG on Campus BNU · Jul 2026</summary>
+  <summary><strong>Machine Learning Certificate</strong> — GDG on Campus BNU · Jul 2026</summary>
   <br />
   <p><strong>Issuer:</strong> GDG on Campus BNU</p>
-  <p>Successfully completed the Machine Learning program organized by Google Developer Group (GDG) on Campus at Benha National University. Achieved 9th place out of over 1048 students.</p>
+  <p>Successfully completed the Machine Learning program organized by Google Developer Group (GDG) on Campus at Benha National University. <strong>Achievement:</strong> 9th place out of over 1048 students.</p>
+  <p>
+    <code>Credential ID: BNU-GDG26-DALY-K4I6PV</code><br>
+    <a href="https://gdgoc-admin.vercel.app/verify/BNU-GDG26-DALY-K4I6PV" rel="noopener">View Credential →</a>
+  </p>
   <p>
     <img src="https://img.shields.io/badge/Machine_Learning-0078D4?style=flat-square" alt="Machine Learning" />
     <img src="https://img.shields.io/badge/Ranking-9th_/_1048-orange?style=flat-square" alt="Ranking: 9th out of 1048" />
-    <img src="https://img.shields.io/badge/Top_1%25-brightgreen?style=flat-square" alt="Top 1%" />
   </p>
 </details>
 
 <details>
-  <summary><strong>📋 Data Science & AI Technical Team Lead</strong> — GDG On Campus - Benha University · Jan 2026</summary>
+  <summary><strong>Data Science & AI Technical Team Lead</strong> — GDG On Campus - Benha University · Jan 2026</summary>
   <br />
   <p><strong>Issuer:</strong> GDG On Campus - Benha University</p>
   <p>Successfully completed the Data Science and AI Technical Boot Camp, gaining hands-on experience in data analysis, machine learning, and AI. Strengthened skills in leadership, teamwork, and technical problem-solving through collaborative projects and mentorship.</p>
   <p>
-    <img src="https://img.shields.io/badge/Leadership-2ECC71?style=flat-square" alt="Leadership" />
     <img src="https://img.shields.io/badge/Data_Science-0078D4?style=flat-square" alt="Data Science" />
-    <img src="https://img.shields.io/badge/Teamwork-3498DB?style=flat-square" alt="Teamwork" />
+    <img src="https://img.shields.io/badge/Leadership-2ECC71?style=flat-square" alt="Leadership" />
   </p>
 </details>
 
 <details>
-  <summary><strong>🔀 Learning Git and GitHub</strong> — LinkedIn · Oct 2025</summary>
+  <summary><strong>Build with AI: LLM-Powered Data Analysis App</strong> — LinkedIn · Sep 2025</summary>
   <br />
   <p><strong>Issuer:</strong> LinkedIn</p>
-  <p>Completed a comprehensive course on version control and collaboration using Git and GitHub. Gained practical skills in managing repositories, branching, merging, and collaborating on projects through pull requests and issue tracking.</p>
+  <p>Completed a hands-on project-based course on building LLM-powered data analysis applications using Python and Streamlit. Gained practical experience in integrating large language models to analyze datasets, generate insights, and build interactive dashboards.</p>
   <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Version_Control-333333?style=flat-square" alt="Version Control" />
+    <code>Credential ID: 6a1333d6fdc59cebbb3508548c114b89d1084efef31779d77df0c88ee6aeafe9</code><br>
+    <a href="https://www.linkedin.com/learning/certificates/6a1333d6fdc59cebbb3508548c114b89d1084efef31779d77df0c88ee6aeafe9/" rel="noopener">View Credential →</a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/LLM-8E44AD?style=flat-square" alt="LLM" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square" alt="Streamlit" />
   </p>
 </details>
 
+<details>
+  <summary><strong>Practical Machine Learning for Data Scientists</strong> — MaharaTech - ITIMooca · Sep 2025</summary>
+  <br />
+  <p><strong>Issuer:</strong> MaharaTech - ITIMooca</p>
+  <p>Completed a hands-on course covering supervised and unsupervised algorithms, data preprocessing, feature engineering, model evaluation, hyperparameter tuning, and real-world implementation using Python.</p>
+  <p>
+    <code>Credential ID: 1of8dzjms3</code><br>
+    <a href="https://maharatech.gov.eg/mod/customcert/view.php?id=15462&downloadown=1" rel="noopener">View Credential →</a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Machine_Learning-0078D4?style=flat-square" alt="Machine Learning" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square" alt="Scikit-Learn" />
+  </p>
+</details>
+
+### 📚 Additional Certifications
+
+**AI & Data Science**
+*   **Training Neural Networks in Python** — LinkedIn (Oct 2025) · [View Credential](https://www.linkedin.com/learning/certificates/2bc449f77d3d9258eeba8bcceb4b1a37ca5ad4237abe8c49118cb884bf301df2/)
+*   **Deep Learning: Model Optimization and Tuning** — LinkedIn (Oct 2025) · [View Credential](https://www.linkedin.com/learning/certificates/a89770b9595425f6329605d80c42b7fc7125a0c9f5312611b8c7caa662cc6bb9/)
+*   **Level Up: Python Data Modeling and Model Evaluation** — LinkedIn (Sep 2025) · [View Credential](https://www.linkedin.com/learning/certificates/f65a130752e3bca1d1cb3c0537a6c05492e52f8e1880396814e6cdd228b53c3f/)
+*   **ChatGPT and Power BI** — LinkedIn (Sep 2025) · [View Credential](https://www.linkedin.com/learning/certificates/3533d3893dd5a77c70310ec153762369b5c9c27e567bd9ba69ae109e829d389b/)
+*   **SIC (Data Analysis)** — Science in code - Benha University (Sep 2025)
+*   **Data Visualization with Matplotlib and Seaborn** — LinkedIn (Sep 2025) · [View Credential](https://www.linkedin.com/learning/certificates/8cda4c0a5e6da82c9103474eb3abafdb6cc1eb8eaeed90f8190a074726b22a82/)
+*   **AI and Machine Learning Foundations** — Sprints (Sep 2025) · [View Credential](https://sprints.ai/en-eg/journeys/learning/1185/90209798/view-certificate)
+*   **AI For Everyone (AI4E)** — MaharaTech - ITIMooca (Sep 2025) · [View Credential](https://maharatech.gov.eg/mod/customcert/view.php?id=12488&downloadown=1)
+*   **Machine Learning and AI: Classification Modeling** — LinkedIn (Sep 2025) · [View Credential](https://www.linkedin.com/learning/certificates/2450c723849fadb2bdaea3c18631654a2450d3e71a8f111f9d2536d282a849fa/)
+*   **Prompt Engineering with ChatGPT** — LinkedIn (Sep 2025) · [View Credential](https://www.linkedin.com/learning/certificates/30a71669df0cd7e6727ce7b92c1a616c11634963f1b2102d8f35d87b5e14d731/)
+*   **Building Deep Learning Applications with Keras** — LinkedIn (Sep 2025) · [View Credential](https://www.linkedin.com/learning/certificates/4eff730ba1c85b2d080c59772d302d9fd6369855287c62b5b0541adab17c7e4a/)
+*   **Prompt Engineering: How to Talk to the AIs** — LinkedIn (Sep 2025) · [View Credential](https://www.linkedin.com/learning/certificates/9ac040d8ce972f959b2e89a5e97d0ec930c4cfb091e7635c3ec58538b3abfaa2/)
+*   **Artificial Intelligence Foundations: Machine Learning** — LinkedIn (Sep 2025) · [View Credential](https://www.linkedin.com/learning/certificates/2d0772fcf7cf1a0656cbb4c2609ba4377401fb1809f0006692dcb43f1de6ebd1/)
+
+**Software Engineering & Security**
+*   **Learning Git and GitHub** — LinkedIn (Oct 2025) · [View Credential](https://www.linkedin.com/learning/certificates/6f89e6389fdd1175f13816635416bde8a3ef4b836951352a3976deb3005b71fe/)
+*   **Java Fundamentals** — Udemy (Mar 2025) · [View Credential](https://www.udemy.com/certificate/UC-1e4e6acf-174d-4ab8-9190-f1dd8bef2477/)
+*   **C++ Fundamentals for Beginners** — Udemy (Mar 2025) · [View Credential](https://www.udemy.com/certificate/UC-e994ca09-a064-4755-82c8-49145c754615/)
+*   **Cybersecurity & Penetration Testing** — GDG On Campus - Benha University (Feb 2025)
+*   **Red Teaming, Ethical Hacking, Penetration Testing** — Udemy (Feb 2025) · [View Credential](https://www.udemy.com/certificate/UC-ca5b0e39-9d07-4f3e-81de-ecb6ce510c4c/)
+*   **International Computer Drivers License (ICDL)** — Ethos Academy (Mar 2025)
 ---
 
 ## 💡 Quote
