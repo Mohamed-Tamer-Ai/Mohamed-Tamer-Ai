@@ -297,74 +297,51 @@ I enjoy working across the complete data workflow:
 
 ## 💼 Experience & Leadership
 
-| Role | Organization | Details |
-|------|-------------|---------|
-| 🧠 **AI For Business Intern** | National Telecommunication Institute (NTI) | Practical training in applying AI to business use cases |
-| 📊 **Head of Data Analysis Track** | Science in Code — Benha University | Leading the data analysis educational track |
-| 🤖 **Technical Instructor** | GDG On Campus — Benha University | AI and Data Science instruction and community involvement |
+### 🚀 Internship Trainee — Microsoft Machine Learning Engineer
+**Digital Egypt Pioneers Initiative (DEPI)** | *Nov 2025 - Present · Hybrid (Benha, Egypt)*
+
+Selected for the Microsoft Machine Learning Engineer specialization within DEPI, an intensive industry-focused program designed to develop production-ready AI and Machine Learning engineers using Microsoft technologies.
+
+**Key Responsibilities & Learning Outcomes:**
+- **End-to-End ML Solutions:** Built scalable models from data preprocessing and feature engineering to model training, evaluation, and deployment.
+- **Advanced AI Frameworks:** Developed practical expertise in Machine Learning, Deep Learning, Natural Language Processing (NLP), and Computer Vision.
+- **MLOps & Azure:** Worked with Microsoft Azure AI services, MLflow, and Hugging Face to build and manage AI workflows.
+- **Data Analytics:** Implemented data visualization and EDA techniques to extract actionable insights using Python and statistical analysis.
+- **Professional Development:** Participated in the Freelancing & Coaching Programs, gaining practical knowledge in client communication, proposal writing, pricing strategies, and career planning.
+- **Team Collaboration:** Collaborated within agile teams to solve real-world AI challenges and strengthen problem-solving skills.
+
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-0078D4?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/MLOps-2ECC71?style=flat-square" alt="MLOps" />
+  <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square" alt="Azure" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</p>
 
 ---
 
-## 🎓 Certifications
+### 🧠 Artificial Intelligence Trainee
+**Creativa Hub Benha (ITIDA & MCIT)** | *Jul 2025 - Oct 2025 · Hybrid (Benha, Egypt)*
 
-### 🏆 Featured Certifications
+- Completed a rigorous 160-hour intensive AI training program supported by ITIDA and MCIT.
+- Developed hands-on expertise in Python programming, Machine Learning, Deep Learning, Natural Language Processing (NLP), and Computer Vision.
+- Applied advanced AI concepts to build end-to-end projects and strengthen real-world problem-solving capabilities.
 
-<details>
-  <summary><strong>Machine Learning Certificate</strong> — GDG on Campus BNU · Jul 2026</summary>
-  <br />
-  <p><strong>Issuer:</strong> GDG on Campus BNU</p>
-  <p>Successfully completed the Machine Learning program organized by Google Developer Group (GDG) on Campus at Benha National University. <strong>Achievement:</strong> 9th place out of over 1048 students.</p>
-  <p>
-    <code>Credential ID: BNU-GDG26-DALY-K4I6PV</code><br>
-    <a href="https://gdgoc-admin.vercel.app/verify/BNU-GDG26-DALY-K4I6PV" rel="noopener">View Credential →</a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Machine_Learning-0078D4?style=flat-square" alt="Machine Learning" />
-    <img src="https://img.shields.io/badge/Ranking-9th_/_1048-orange?style=flat-square" alt="Ranking: 9th out of 1048" />
-  </p>
-</details>
+<p>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-8E44AD?style=flat-square" alt="AI" />
+  <img src="https://img.shields.io/badge/Computer_Vision-2ECC71?style=flat-square" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/NLP-F2C811?style=flat-square" alt="NLP" />
+</p>
 
-<details>
-  <summary><strong>Data Science & AI Technical Team Lead</strong> — GDG On Campus - Benha University · Jan 2026</summary>
-  <br />
-  <p><strong>Issuer:</strong> GDG On Campus - Benha University</p>
-  <p>Successfully completed the Data Science and AI Technical Boot Camp, gaining hands-on experience in data analysis, machine learning, and AI. Strengthened skills in leadership, teamwork, and technical problem-solving through collaborative projects and mentorship.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Data_Science-0078D4?style=flat-square" alt="Data Science" />
-    <img src="https://img.shields.io/badge/Leadership-2ECC71?style=flat-square" alt="Leadership" />
-  </p>
-</details>
+---
 
-<details>
-  <summary><strong>Build with AI: LLM-Powered Data Analysis App</strong> — LinkedIn · Sep 2025</summary>
-  <br />
-  <p><strong>Issuer:</strong> LinkedIn</p>
-  <p>Completed a hands-on project-based course on building LLM-powered data analysis applications using Python and Streamlit. Gained practical experience in integrating large language models to analyze datasets, generate insights, and build interactive dashboards.</p>
-  <p>
-    <code>Credential ID: 6a1333d6fdc59cebbb3508548c114b89d1084efef31779d77df0c88ee6aeafe9</code><br>
-    <a href="https://www.linkedin.com/learning/certificates/6a1333d6fdc59cebbb3508548c114b89d1084efef31779d77df0c88ee6aeafe9/" rel="noopener">View Credential →</a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/LLM-8E44AD?style=flat-square" alt="LLM" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square" alt="Streamlit" />
-  </p>
-</details>
+### 📊 Head of Data Analysis Track
+**Science in Code (SIC) — Benha University** | *Dec 2025 - Present*
+- Leading the data analysis educational track, designing curriculum roadmaps, and mentoring students in data science fundamentals.
 
-<details>
-  <summary><strong>Practical Machine Learning for Data Scientists</strong> — MaharaTech - ITIMooca · Sep 2025</summary>
-  <br />
-  <p><strong>Issuer:</strong> MaharaTech - ITIMooca</p>
-  <p>Completed a hands-on course covering supervised and unsupervised algorithms, data preprocessing, feature engineering, model evaluation, hyperparameter tuning, and real-world implementation using Python.</p>
-  <p>
-    <code>Credential ID: 1of8dzjms3</code><br>
-    <a href="https://maharatech.gov.eg/mod/customcert/view.php?id=15462&downloadown=1" rel="noopener">View Credential →</a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Machine_Learning-0078D4?style=flat-square" alt="Machine Learning" />
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square" alt="Scikit-Learn" />
-  </p>
-</details>
-
+### 🤖 Technical Instructor (AI & Data Science)
+**GDG On Campus — Benha University** | *Dec 2025 - Present*
+- Delivering AI and Data Science instruction, organizing technical bootcamps, and fostering community involvement in tech.
 ### 📚 Additional Certifications
 
 **AI & Data Science**
