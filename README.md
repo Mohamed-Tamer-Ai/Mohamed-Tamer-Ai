@@ -4,7 +4,7 @@
 <!-- HEADER                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Mohamed%20Tamer%20Elsheikh&fontSize=55&fontColor=00FF41&animation=scaleIn&fontAlignY=50" alt="Mohamed Tamer Header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&duration=4000&pause=2000&color=00FF41&center=true&vCenter=true&width=800&height=120&lines=Mohamed+Tamer+Elsheikh;Welcome+to+my+GitHub!+👋" alt="Mohamed Tamer Elsheikh" />
 
 <a href="https://github.com/Mohamed-Tamer-Ai" rel="noopener">
   <img
