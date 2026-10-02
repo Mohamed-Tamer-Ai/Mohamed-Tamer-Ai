@@ -4,7 +4,9 @@
 <!-- HEADER                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h1>Mohamed Tamer Elsheikh</h1>
+<a href="https://github.com/Mohamed-Tamer-Ai">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&duration=4000&pause=2000&color=00FF41&center=true&vCenter=true&width=800&height=120&lines=Mohamed+Tamer+Elsheikh;Welcome+to+my+GitHub!+👋" alt="Mohamed Tamer Elsheikh" />
+</a>
 
 <a href="https://github.com/Mohamed-Tamer-Ai" rel="noopener">
   <img
